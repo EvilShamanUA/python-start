@@ -6,3 +6,4 @@ spisok.remove(4.8)
 spisok.remove(55)
 spisok.remove(6)
 print(spisok)
+
